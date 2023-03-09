@@ -6,7 +6,7 @@
 
 ## Contenido
 
-- [Material](./1. Descripción)
+- [Material](./Material)
   - [archivo1.md](./1. Descripción/descripcionenlanube.md)
 - [Carpeta2](./Carpeta2)
   - [archivo3.md](./Carpeta2/archivo3.md)
