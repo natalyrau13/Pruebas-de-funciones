@@ -2,6 +2,8 @@
 
 ### Este repositorio está creado para ser una guía al momento de iniciar el estudio para obtener la certificación de [AZ900-Azure-Fundamentals](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
 
+Esta certificación está enfocada en el dominio de los conceptos básicos de la computación en la nube de Azure.
+
 ## Contenido
 
 - [Material](./Material)
@@ -13,7 +15,8 @@
     - [Descripción de la Administración y Gobernanza de Azure](./Material/1.%20Descripción/otroarchivo.md)
   - [Descripción de otros recursos](./Material/Descripción%20de%20otros%20recursos)
   - [Exámenes guía](./Material/Examenes%20guía)
-- 
+-[Funciones del Análisis de rentabilidades](./analisisrentabilidades) 
+
 
 A continuación encontrará un conjunto de recursos distribuidos en carpetas en las cuales hay material especificado por tema para el estudio de la certificación. Además, podrá usar material dispuesto para la preparación del examen.
 
@@ -30,6 +33,7 @@ En este repositorio también se realiza un proyecto con el fin de fortalecer los
 
 En la carpeta llamada ***analisisrentabilidades*** se encuentran dos módulos que contienen las funciones creadas para la extracción de la información de los fondos.  
 
+Y los archivos que encuentra en la vista principal son el script que ejecuta el proyecto y los requerimientos que este módulo de python necesita para ser ejecutado.
 
 Herramientas utilizadas: 
 
