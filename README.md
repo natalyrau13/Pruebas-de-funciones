@@ -13,7 +13,7 @@
     - [Descripción de la Administración y Gobernanza de Azure](./Material/1.%20Descripción/otroarchivo.md)
   - [Descripción de otros recursos](./Material/Descripción%20de%20otros%20recursos)
   - [Exámenes guía](./Material/Examenes%20guía)
-
+- 
 
 A continuación encontrará un conjunto de recursos distribuidos en carpetas en las cuales hay material especificado por tema para el estudio de la certificación. Además, podrá usar material dispuesto para la preparación del examen.
 
@@ -31,7 +31,7 @@ En este repositorio también se realiza un proyecto con el fin de fortalecer los
 En la carpeta llamada ***analisisrentabilidades*** se encuentran dos módulos que contienen las funciones creadas para la extracción de la información de los fondos.  
 
 
-Herramientas: 
+Herramientas utilizadas: 
 
 - Python
 - Git/GitHub
