@@ -15,7 +15,7 @@ Esta certificación está enfocada en el dominio de los conceptos básicos de la
     - [Descripción de la Administración y Gobernanza de Azure](./Material/1.%20Descripción/otroarchivo.md)
   - [Descripción de otros recursos](./Material/Descripción%20de%20otros%20recursos)
   - [Exámenes guía](./Material/Examenes%20guía)
--[Funciones del Análisis de rentabilidades](./analisisrentabilidades) 
+- [Funciones del Análisis de rentabilidades](./analisisrentabilidades) 
 
 
 A continuación encontrará un conjunto de recursos distribuidos en carpetas en las cuales hay material especificado por tema para el estudio de la certificación. Además, podrá usar material dispuesto para la preparación del examen.
