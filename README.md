@@ -35,7 +35,7 @@ En la carpeta llamada ***analisisrentabilidades*** se encuentran dos módulos qu
 
 Y los archivos que encuentra en la vista principal son el script que ejecuta el proyecto y los requerimientos que este módulo de python necesita para ser ejecutado.
 
-Herramientas utilizadas: 
+Herramientas con las que se construyó el proyecto: 
 
 - Python
 - Git/GitHub
